@@ -88,7 +88,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DasAbin/DasAbin/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DasAbin/DasAbin/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
