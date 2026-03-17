@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasAbin&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=DasAbin&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DasAbin&show_icons=true&theme=radical&cache_seconds=60&v=1" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=DasAbin&theme=radical&v=1" height="150"/>
 </p>
 
 ---
