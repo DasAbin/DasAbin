@@ -85,4 +85,8 @@
 
 > I don’t just build apps — I design **systems that solve real-world constraints at scale.**
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/DasAbin/DasAbin/blob/output/github-contribution-grid-snake.svg)
+
 ---
