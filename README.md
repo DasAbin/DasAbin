@@ -2,19 +2,17 @@
 <h3 align="center">🚀 AI Systems Builder | Full Stack Developer | SIH’25 Finalist</h3>
 
 <p align="center">
-  <a href="https://github.com/DasAbin">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2B+System+Design;Full+Stack+Developer;RAG+%26+LLM+Engineer;Hackathon+Finalist&center=true&width=500&height=50">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2B+System+Design;Full+Stack+Developer;RAG+%26+LLM+Engineer;Hackathon+Finalist&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Computer Engineering @ AIT Pune (CGPA: 8.82) 
-* 🧠 Specialized in **AI Systems, RAG Pipelines & Backend Architecture** 
-* 🏆 **SIH 2025 Finalist** & HackRx Top 100 Global Teams 
-* ⚡ Passionate about building **real-world scalable systems using AI**
+- 🎓 Computer Engineering @ AIT Pune (CGPA: 8.82)  
+- 🧠 Specialized in **AI Systems, RAG Pipelines & Backend Architecture**  
+- 🏆 **SIH 2025 Finalist** & HackRx Top 100  
+- ⚡ Building scalable real-world AI systems  
 
 ---
 
@@ -28,28 +26,22 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 YatraMind (KMRL Decision Platform)
-
-* AI-driven metro planning system with **optimization engine (OR-Tools)**
-* Reduced manual fleet allocation time by **~40%**
-* Built with **FastAPI + MongoDB + PyTorch**
-* Real-time telemetry + RBAC security system 
+### 🔥 YatraMind
+- AI metro planning system using OR-Tools  
+- Reduced manual work by 40%  
+- FastAPI + MongoDB + PyTorch  
 
 ---
 
-### 🧠 Saarthi.AI (AWS AI Civic Assistant)
-
-* Multilingual **RAG-based assistant** using AWS Bedrock
-* Integrated Textract, Transcribe & Polly
-* Fully serverless deployment via AWS CDK & Amplify 
+### 🧠 Saarthi.AI
+- Multilingual RAG assistant (AWS Bedrock)  
+- Textract + Transcribe + Polly integration  
 
 ---
 
-### ⚡ DecodX-LLM (HackRx Finalist)
-
-* Hybrid retrieval system (**BM25 + Vector DB**)
-* Built with Gemini + FAISS
-* Ranked **Top 100 globally** 
+### ⚡ DecodX-LLM
+- Hybrid retrieval (BM25 + Vector DB)  
+- Top 100 global (HackRx)  
 
 ---
 
@@ -62,33 +54,33 @@
 
 ---
 
-## 🧩 What I Work On
-
-* 🧠 RAG-based LLM systems
-* ⚙️ Backend & system design
-* ☁️ AWS serverless architecture
-* 📈 Optimization algorithms & real-time systems
-
----
-
-## 🌐 Connect With Me
+## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://linkedin.com/in/abindasp">LinkedIn</a> •
-  <a href="mailto:abindasp2006@gmail.com">Email</a> •
-  <a href="https://github.com/DasAbin">GitHub</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasAbin&theme=react-dark"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🔭 Currently Working On
 
-> I don’t just build apps — I design **systems that solve real-world constraints at scale.**
+- 🚀 Scaling LearnTrace to production  
+- 🧠 Advanced RAG pipelines  
+- ⚙️ Optimization systems  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/abindasp">LinkedIn</a> •
+  <a href="mailto:abindasp2006@gmail.com">Email</a>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DasAbin/DasAbin/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
